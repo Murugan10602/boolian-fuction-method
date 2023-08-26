@@ -1,0 +1,1 @@
+# boolian-fuction-method
